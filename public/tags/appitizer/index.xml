@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>appitizer on My Cookbook</title>
+    <link>http://example.org/tags/appitizer/</link>
+    <description>Recent content in appitizer on My Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jan 2021 19:53:02 -0500</lastBuildDate><atom:link href="http://example.org/tags/appitizer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>German Potato Salad</title>
+      <link>http://example.org/german-potato-salad/</link>
+      <pubDate>Mon, 25 Jan 2021 19:53:02 -0500</pubDate>
+      
+      <guid>http://example.org/german-potato-salad/</guid>
+      <description>Ingredients  2 pounds potatoes, peeled and sliced 1 cup chopped onion 1 cup sliced celery 1/2 cup chopped green bell pepper 1/2 cup cooking oil 1/2 cup vinegar salt and ground black pepper to taste 6 slices cooked bacon, crumbled 2 tablespoons chopped fresh parsley  Directions  Combine potatoes, onion, celery, green bell pepper, oil, vinegar, salt, and pepper in a slow cooker. Cook on Low 5 to 6 hours.</description>
+    </item>
+    
+    <item>
+      <title>Deviled Eggs</title>
+      <link>http://example.org/deviled-eggs/</link>
+      <pubDate>Sun, 24 Jan 2021 19:13:43 -0500</pubDate>
+      
+      <guid>http://example.org/deviled-eggs/</guid>
+      <description>Ingredients  6 Eggs 1/4 Cup Mayonnaise 1/4 onion, finely chopped 1 teaspoon white vinegar 1 teaspoon yellow mustard 1/8 teaspoon salt 1 dash hot pepper sauce Black pepper Paprika, for garnish  Directions  Place eggs in a medium saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool and peel.</description>
+    </item>
+    
+  </channel>
+</rss>

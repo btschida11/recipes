@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag1 on My Cookbook</title>
+    <link>http://example.org/tags/tag1/</link>
+    <description>Recent content in tag1 on My Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 21:40:49 -0500</lastBuildDate><atom:link href="http://example.org/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crab Ceviche</title>
+      <link>http://example.org/crap-ceviche/</link>
+      <pubDate>Sun, 24 Jan 2021 21:40:49 -0500</pubDate>
+      
+      <guid>http://example.org/crap-ceviche/</guid>
+      <description>Ingredients  1 (8 ounce) package imitation crabmeat, flaked 2 large tomatoes, chopped 1 red onion, finely chopped 1/2 bunch cilantro, chopped 2 limes, juiced 3 serrano peppers, finely chopped 1 tablespoon olive oil salt and pepper to taste  Directions  Place the shredded imitation crab into a glass or porcelain bowl. Plastic or metal are not recommended. Stir olive oil into the crabmeat until well coated, then stir in the cilantro, onion, tomato and serrano peppers.</description>
+    </item>
+    
+    <item>
+      <title>Precuetta Wraps</title>
+      <link>http://example.org/prucetta-wraps/</link>
+      <pubDate>Sun, 20 Dec 2020 20:28:46 -0500</pubDate>
+      
+      <guid>http://example.org/prucetta-wraps/</guid>
+      <description>Ingredients  1/2 Avacado sliced Second Ingredient 1 Third Ingredient Fourth Ingredient Fifth Ingredient  Directions  Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper.  Sub Step One or Notes   Arrange the prosciutto slices on the baking sheet so they don’t touch, and bake them in the preheated oven until crisp, 6 to 8 minutes. Remove from the oven, and let cool.</description>
+    </item>
+    
+  </channel>
+</rss>

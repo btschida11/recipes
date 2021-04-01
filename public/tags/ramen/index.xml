@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ramen on My Cookbook</title>
+    <link>http://example.org/tags/ramen/</link>
+    <description>Recent content in ramen on My Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 20:05:39 -0500</lastBuildDate><atom:link href="http://example.org/tags/ramen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homemade Chicken Ramen</title>
+      <link>http://example.org/chicken-ramen/</link>
+      <pubDate>Sun, 24 Jan 2021 20:05:39 -0500</pubDate>
+      
+      <guid>http://example.org/chicken-ramen/</guid>
+      <description>Ingredients Chicken  4 Chicken Breasts (boneless) 2 tbsp unsalted butter Salt and Pepper  Broth  4 tsp sesame or vegetable oil 4 tsp fresh ginger, minced 6 tsp fresh garlic, minced 6 tbsp low-sodium soy sauce 4 tbsp mirin 8 cups rich chicken stock 1 1/2 cups fresh shitake or bella mushrooms Sea Salt (to taste)  Noodles  6 (2-3oz) packs of dried ramen noodles  Extras  6 Eggs 1 cup scallions or green onions, tops sliced optional: fresh jalapeno slices  Directions  Cook the chicken: Preheat the oven to 375 degrees.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>snacks on My Cookbook</title>
+    <link>http://example.org/tags/snacks/</link>
+    <description>Recent content in snacks on My Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 21:47:31 -0500</lastBuildDate><atom:link href="http://example.org/tags/snacks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snickerdoodles</title>
+      <link>http://example.org/snickerdoodles/</link>
+      <pubDate>Sun, 24 Jan 2021 21:47:31 -0500</pubDate>
+      
+      <guid>http://example.org/snickerdoodles/</guid>
+      <description>Ingredients  1 cup shortening 1 1/2 cups white sugar 2 eggs 2 3/4 cups all-purpose flour 1 teaspoon baking soda 2 teaspoons cream of tartar 1/2 teaspoon salt 2 tablespoons white sugar 2 teaspoons ground cinnamon  Directions  Preheat oven to 375 degrees F (190 degrees C). In a medium bowl, cream together the shortening and 1 1/2 cups sugar. Stir in the eggs. Sift together the flour, baking soda, cream of tartar, and salt; stir into the creamed mixture until well blended.</description>
+    </item>
+    
+  </channel>
+</rss>

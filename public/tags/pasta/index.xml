@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pasta on My Cookbook</title>
+    <link>http://example.org/tags/pasta/</link>
+    <description>Recent content in pasta on My Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jan 2021 20:16:56 -0500</lastBuildDate><atom:link href="http://example.org/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cabbage and Smoked Sausage Pasta</title>
+      <link>http://example.org/cabbage-and-smoked-sausage-pasta/</link>
+      <pubDate>Mon, 25 Jan 2021 20:16:56 -0500</pubDate>
+      
+      <guid>http://example.org/cabbage-and-smoked-sausage-pasta/</guid>
+      <description>Ingredients  1 (16 ounce) package farfalle (bow tie) pasta 1/2 cup butter 2 cloves garlic, minced 1/4 cup olive oil 1 large head green cabbage, shredded salt and pepper to taste 1 pound smoked sausage, sliced 1/4 cup grated Parmesan cheese  Directions  Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the bow tie pasta and return to a boil.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My Cookbook</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on My Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jan 2021 20:16:56 -0500</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dinner</title>
+      <link>http://example.org/tags/dinner/</link>
+      <pubDate>Mon, 25 Jan 2021 20:16:56 -0500</pubDate>
+      
+      <guid>http://example.org/tags/dinner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pasta</title>
+      <link>http://example.org/tags/pasta/</link>
+      <pubDate>Mon, 25 Jan 2021 20:16:56 -0500</pubDate>
+      
+      <guid>http://example.org/tags/pasta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>appitizer</title>
+      <link>http://example.org/tags/appitizer/</link>
+      <pubDate>Mon, 25 Jan 2021 19:53:02 -0500</pubDate>
+      
+      <guid>http://example.org/tags/appitizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag2</title>
+      <link>http://example.org/tags/tag2/</link>
+      <pubDate>Mon, 25 Jan 2021 19:53:02 -0500</pubDate>
+      
+      <guid>http://example.org/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crockpot</title>
+      <link>http://example.org/tags/crockpot/</link>
+      <pubDate>Sun, 24 Jan 2021 22:16:36 -0500</pubDate>
+      
+      <guid>http://example.org/tags/crockpot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>snacks</title>
+      <link>http://example.org/tags/snacks/</link>
+      <pubDate>Sun, 24 Jan 2021 21:47:31 -0500</pubDate>
+      
+      <guid>http://example.org/tags/snacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag1</title>
+      <link>http://example.org/tags/tag1/</link>
+      <pubDate>Sun, 24 Jan 2021 21:40:49 -0500</pubDate>
+      
+      <guid>http://example.org/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meal</title>
+      <link>http://example.org/tags/meal/</link>
+      <pubDate>Sun, 24 Jan 2021 20:05:39 -0500</pubDate>
+      
+      <guid>http://example.org/tags/meal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ramen</title>
+      <link>http://example.org/tags/ramen/</link>
+      <pubDate>Sun, 24 Jan 2021 20:05:39 -0500</pubDate>
+      
+      <guid>http://example.org/tags/ramen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chicken</title>
+      <link>http://example.org/tags/chicken/</link>
+      <pubDate>Sun, 24 Jan 2021 19:34:12 -0500</pubDate>
+      
+      <guid>http://example.org/tags/chicken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>main</title>
+      <link>http://example.org/tags/main/</link>
+      <pubDate>Sun, 24 Jan 2021 19:34:12 -0500</pubDate>
+      
+      <guid>http://example.org/tags/main/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quick</title>
+      <link>http://example.org/tags/quick/</link>
+      <pubDate>Sun, 24 Jan 2021 19:34:12 -0500</pubDate>
+      
+      <guid>http://example.org/tags/quick/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

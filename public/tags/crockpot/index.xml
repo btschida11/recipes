@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crockpot on My Cookbook</title>
+    <link>http://example.org/tags/crockpot/</link>
+    <description>Recent content in crockpot on My Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 22:16:36 -0500</lastBuildDate><atom:link href="http://example.org/tags/crockpot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homemade Italian Beef</title>
+      <link>http://example.org/homemade-italian-beef/</link>
+      <pubDate>Sun, 24 Jan 2021 22:16:36 -0500</pubDate>
+      
+      <guid>http://example.org/homemade-italian-beef/</guid>
+      <description>Ingredients  3 pounds beef chuck roast 3 (1 ounce) packages dry Italian salad dressing mix 1 cup water 1 (16 ounce) jar pepperoncini peppers 8 hamburger buns, split  Directions  Place the roast into a slow cooker, and season with Italian dressing mix. Pour in the water. Cover, and cook on High for 6 to 7 hours. During the last hour, shred the meat with two forks - if it does not shred easily, cook longer.</description>
+    </item>
+    
+  </channel>
+</rss>
